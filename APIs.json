@@ -1,0 +1,54 @@
+{
+    "name": "Clarify",
+    "description": "Clarify's API makes audio and video files actionable via search and extracted keywords and topics.",
+    "image": "http://clarify.io/clarify-negative.png",
+    "tags": [
+        "audio search",
+        "video search",
+        "metadata"
+    ],
+    "created": "2015-02-09",
+    "modified": "2015-02-09",
+    "url": "http://clarify.io/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Clarify API",
+            "description": "Clarify's API makes audio and video files actionable via search and extracted keywords and topics.",
+            "image": "http://clarify.io/clarify-negative.png",
+            "humanURL": "https://developer.clarify.io/",
+            "baseURL": "http://api.clarify.io/",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "X-blog",
+                    "url": "http://clarify.io/blog/"
+                },
+                {
+                    "type": "X-blog-rss-feed",
+                    "url": "http://clarify.io/feed/"
+                },
+                {
+                    "type": "X-github",
+                    "url": "https://github.com/Clarify"
+                },
+                {
+                    "type": "X-twitter",
+                    "url": "https://twitter.com/Clarify_inc"
+                }
+            ],
+            "contact": [
+                {
+                    "FN": "Clarify API Team",
+                    "Url": "http://support.clarify.io"
+                }
+            ]
+        }
+    ],
+    "maintainers": [
+        {
+            "FN": "Clarify, Inc.",
+            "X-twitter": "clarify_inc"
+        }
+    ]
+}
