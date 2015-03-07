@@ -19,24 +19,6 @@
             "humanURL": "https://developer.clarify.io/",
             "baseURL": "http://api.clarify.io/",
             "tags": [],
-            "properties": [
-                {
-                    "type": "X-blog",
-                    "url": "http://clarify.io/blog/"
-                },
-                {
-                    "type": "X-blog-rss-feed",
-                    "url": "http://clarify.io/feed/"
-                },
-                {
-                    "type": "X-github",
-                    "url": "https://github.com/Clarify"
-                },
-                {
-                    "type": "X-twitter",
-                    "url": "https://twitter.com/Clarify_inc"
-                }
-            ],
             "contact": [
                 {
                     "FN": "Clarify API Team",
@@ -50,5 +32,16 @@
             "FN": "Clarify, Inc.",
             "X-twitter": "clarify_inc"
         }
-    ]
+    ],
+    "TermsOfService":"http://clarify.io/terms-of-service/",
+    "StatusPage":"",
+    "Pricing":"http://clarify.io/pricing/",
+    "Forums":"http://support.clarify.io",
+    "AlertsTwitterHandle":"ClarifyAPI",
+    "Swagger":"",
+    "x-blog":"http://clarify.io/blog/",
+    "x-blogrss":"http://clarify.io/feed/",
+    "x-twitter":"https://twitter.com/Clarify_inc",
+    "b-github":"https://github.com/Clarify"
+
 }
